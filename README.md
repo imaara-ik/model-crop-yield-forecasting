@@ -24,6 +24,6 @@ This project builds a machine learning model to predict crop yield based on envi
 
 ## Tech Used
 
-- **Python** (Jupyter Notebook)
+- Python (Jupyter Notebook)
 - `pandas`, `matplotlib`, `seaborn`
 - `scikit-learn` (Random Forest, metrics, train/test split)
